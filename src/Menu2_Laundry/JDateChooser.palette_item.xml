@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<palette_item version="1.0">
+  <component classname="com.toedter.calendar.JDateChooser" />
+  <classpath>
+      <resource type="jar" name="C:\Users\nurul\Downloads\jcalendar-1.4\lib\jcalendar-1.4.jar" />
+  </classpath>
+</palette_item>
